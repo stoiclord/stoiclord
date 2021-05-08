@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning scala, typescript and golang.
 - 🌱 I'm a cryptocurrency enthusiast.
 
-Check out my portfolio : stoiclord.netlify.app
+Check out my portfolio :  [Stoic Lord](https://stoiclord.netlify.app/)
