@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning scala, typescript and golang.
 
 
-Check out my portfolio :  [Stoic Lord](https://stoiclord.netlify.app/)
+
