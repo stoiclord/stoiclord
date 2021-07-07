@@ -1,4 +1,4 @@
 - 👋 Hey, I’m David John
 - 👀 I’m interested in backend technologies such as java, scala and golang.
 - My LinkedIn profile : https://www.linkedin.com/in/thedavidjohn/
-- My website: https://davidjohn.netlify.app/
+- My personal website: https://davidjohn.netlify.app/
